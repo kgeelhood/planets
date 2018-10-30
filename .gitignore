@@ -1,4 +1,4 @@
 #No .dat files
 *.dat
 # nothing in the results folder
-results/
+results/*.out
